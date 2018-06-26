@@ -3,11 +3,8 @@
 This project is aiming to extrapolate radar reflectivity for the future hours. The sample program is using 4 successive images to predict the next one.
 The main algorithm is a 5-layer CNN with an adaptive final layer to reconstruct the image.
 
-## Observation:
-![featpnt](https://github.com/wangminzheng/RadarExtrapolation/blob/master/results/obs.gif)
-
-## Prediction:
-![featpnt](https://github.com/wangminzheng/RadarExtrapolation/blob/master/results/pred.gif)
+## Observation vs Prediction:
+![featpnt](https://github.com/wangminzheng/RadarExtrapolation/blob/master/results/output.gif)
 
 ## Input 1: Time: 2018-05-03_18:18:00
 
