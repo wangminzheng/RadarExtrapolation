@@ -6,6 +6,10 @@ The main algorithm is a 5-layer CNN with an adaptive final layer to reconstruct 
 ## Observation vs Prediction:
 ![featpnt](https://github.com/wangminzheng/RadarExtrapolation/blob/master/results/output.gif)
 
+## Output: Time: 2018-05-03_18:42:00
+
+![featpnt](https://github.com/wangminzheng/RadarExtrapolation/blob/master/results/201805031842.png)
+
 ## Input 1: Time: 2018-05-03_18:18:00
 
 ![featpnt](https://github.com/wangminzheng/RadarExtrapolation/blob/master/results/201805031818.png)
@@ -22,6 +26,3 @@ The main algorithm is a 5-layer CNN with an adaptive final layer to reconstruct 
 
 ![featpnt](https://github.com/wangminzheng/RadarExtrapolation/blob/master/results/201805031836.png)
 
-## Output: Time: 2018-05-03_18:42:00
-
-![featpnt](https://github.com/wangminzheng/RadarExtrapolation/blob/master/results/201805031842.png)
